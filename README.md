@@ -10,3 +10,11 @@ MyReads lets you manage your digital bookshelf. It supports three shelves:
 - Currently Reading
 - Want to Read
 - Read
+
+## Installation
+
+To get started developing right away:
+
+* install all project dependencies with `yarn install`
+* start the development server with `yarn start`
+* run http://localhost:3000/ to open the app
